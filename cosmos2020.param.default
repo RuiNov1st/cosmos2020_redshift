@@ -10,7 +10,7 @@ SMOOTH_SIGMA         100.               # Gaussian sigma (in Angstroms) to smoot
 
 ## Templates
 TEMPLATES_FILE       /data/home/wsr/WorkSpace/EAZY/eazy-photoz/templates/fsps_full/tweak_fsps_QSF_12_v3.param # Template definition file
-TEMPLATE_COMBOS      2                  # Template combination options: 
+TEMPLATE_COMBOS      a                  # Template combination options: 
                                         #         1 : one template at a time
                                         #         2 : two templates, read allowed combinations from TEMPLATES_FILE
                                         #        -2 : two templates, all permutations
